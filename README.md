@@ -6,5 +6,5 @@ Repositorio para practicar el uso de Git y Github
 * Flujo de trabajo en GitHub
 * Manejo de ramas
 * Manejo de errores
-* Merge
-* Pull request
+* Merge entre ramas
+* Pull request 
